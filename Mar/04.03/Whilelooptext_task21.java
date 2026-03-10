@@ -1,4 +1,4 @@
-class Whilelooptext{
+class Whilelooptext_task21{
 	public static void main(String args[]){
 		int x = 1;
 		
