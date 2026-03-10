@@ -1,4 +1,4 @@
-class data_type{
+class datatype_task6{
 	public static void main(String args[]){
 		byte b1;
 		b1=12;

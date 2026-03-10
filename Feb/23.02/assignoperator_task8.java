@@ -1,4 +1,4 @@
-class assign_operator{
+class assignoperator_task8{
 	public static void main(String args[])
 	{   
 		int x;//declaration

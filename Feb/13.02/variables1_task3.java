@@ -1,4 +1,4 @@
-class variables{
+class variables_task3{
 	public static void main(String args[]){
 		int x =10;
 		

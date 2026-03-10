@@ -1,4 +1,4 @@
-class logical_oprators{
+class logicaloprators_task10{
 	public static void main(String args[])
 	{
 		boolean a = true;
