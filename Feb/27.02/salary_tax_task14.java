@@ -1,4 +1,4 @@
-class salary_tax{
+class salary_tax_task14{
 	public static void main(String args[])
 	{
 		int employee_salary=50000;//initizalion

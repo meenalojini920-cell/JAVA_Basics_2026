@@ -1,4 +1,4 @@
-class op_combanion{
+class op_combanion_task13{
 	public static void main(String args[])
 	{
 	   int a = 10;
