@@ -1,4 +1,4 @@
-class switchcase{
+class switchcase_task17{
 	public static void main(String args[])
 	{
 		int day=4;
